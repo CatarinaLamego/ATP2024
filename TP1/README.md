@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ATP2024
 # Relatório Tp1
 ## Data: 2024/09/09
